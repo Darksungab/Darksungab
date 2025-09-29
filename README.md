@@ -1,4 +1,7 @@
-## Hi there 
+## <h>Hello there! I'm DarkSunGab </h>
+<div align="right">
+<img alt="darksun gif" src="gitgif_small.gif"
+
 
 <!--
 **Darksungab/Darksungab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
