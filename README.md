@@ -1,5 +1,5 @@
-## <h>Hello there! I'm DarkSunGab </h>
-<div align="right">
+## <h>Hello! I'm DarkSunGab </h>
+<div align="center">
 <img alt="darksun gif" src="gitgif_small.gif"
 
 
